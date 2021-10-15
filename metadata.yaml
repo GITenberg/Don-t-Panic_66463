@@ -1,0 +1,26 @@
+_repo: Don-t-Panic_66463
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Krepps, Robert W.
+    aliases:
+    - Reynard, Geoffrey St.
+    - St. Reynard, Geoff
+    - Krepps, Robert Wilson
+    - Reynard, Geoff St.
+    birthdate: 1919
+    deathdate: 1980
+    gutenberg_agent_id: '35674'
+    url: http://www.gutenberg.org/2009/agents/35674
+description: ''
+gutenberg_issued: '2021-10-03'
+identifiers:
+  gutenberg: '66463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Don't Panic!
+url: http://www.gutenberg.org/ebooks/66463
